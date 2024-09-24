@@ -24,6 +24,7 @@
 <img src="https://github.com/Tayra46/19-Cursus/blob/6e9244d8ed9bfa257348af0eee045becb093f315/19-campus.jpeg" width="1000" height="300"></img>
 
 <a id="#skills"></a>
+
 ## Skills in development
 
 As I progress through the curriculum, I am developing both technical and interpersonal skills that are essential for becoming an effective software engineer.\
