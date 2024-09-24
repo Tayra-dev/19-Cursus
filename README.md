@@ -16,7 +16,7 @@
 </details>
 
 <a id="#about"></a>
-## About
+## :speech_balloon: About
 To enter 19 School, I had to pass a one-month entry test called <a href="https://github.com/Tayra46/Piscine19">the Piscine</a>
 > 19 is a coding school based in Belgium, following the unique pedagogical approach of the 42 Network. It is a peer-to-peer, project-based learning environment with no teachers or traditional classes. Instead, students are encouraged to learn through collaboration, self-study, and hands-on coding projects
 
@@ -27,7 +27,7 @@ To enter 19 School, I had to pass a one-month entry test called <a href="https:/
 <img src="https://github.com/Tayra46/19-Cursus/blob/6e9244d8ed9bfa257348af0eee045becb093f315/19-campus.jpeg" width="1000" height="300">
 
 <a id="#skills"></a>
-## Skills in development
+## :chart_with_upwards_trend: Skills in development
 
 As I progress through the curriculum, I am developing both technical and interpersonal skills that are essential to be an effective software engineer.\
 </br>
@@ -60,7 +60,7 @@ As I progress through the curriculum, I am developing both technical and interpe
     into a self-paced environment.
 ```
 <a id="projects"></a>
-## My projects
+## :file_cabinet: My projects
 | Project          | Description                                                              | Skills                      |
 |------------------|--------------------------------------------------------------------------|-----------------------------|
 | <a href="https://github.com/Tayra46/Libft">Libft</a>     | My first library that contains useful functions I will use in future 19 projects | C                           |
