@@ -63,7 +63,7 @@ As I progress through the curriculum, I am developing both technical and interpe
 ## My projects
 | Project          | Description                                                              | Skills                      |
 |------------------|--------------------------------------------------------------------------|-----------------------------|
-| Libft            | My first library that contains useful functions I will use in future 19 projects | C                           |
+| <a href="https://github.com/Tayra46/Libft">Libft</a>     | My first library that contains useful functions I will use in future 19 projects | C                           |
 | Ft_printf        | A recreation of the printf function that uses variadic functions         | C                           |
 | Get_next_line    | A function to read a file line by line                                   | C                           |
 | Born2beroot      | Setting up our own first virtual machine                                  | Network, System administration |
