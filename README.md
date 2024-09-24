@@ -8,12 +8,12 @@
 <details open>
   <summary>Table of Contents</summary>
   
-  1. [About](#about)\
-  1. [Skills in development](#skills)
+  1. [About](#about)
+  2. [Skills in development](#skills)
 
 </details>
 
-<a href="#about"></a>
+<a id="#about"></a>
 ## About
 > 19 is a coding school based in Belgium, following the unique pedagogical approach of the 42 Network. It is a peer-to-peer, project-based learning environment with no teachers or traditional classes. Instead, students are encouraged to learn through collaboration, self-study, and hands-on coding projects
 
@@ -23,7 +23,7 @@
 
 <img src="https://github.com/Tayra46/19-Cursus/blob/6e9244d8ed9bfa257348af0eee045becb093f315/19-campus.jpeg" width="1000" height="300"></img>
 
-<a href="#skills"></a>
+<a id="#skills"></a>
 ## Skills in development
 
 As I progress through the curriculum, I am developing both technical and interpersonal skills that are essential for becoming an effective software engineer.\
