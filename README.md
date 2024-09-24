@@ -11,6 +11,7 @@
   
   1. [About](#about)
   2. [Skills in development](#skills)
+  3. [My projects](#projects)
 
 </details>
 
@@ -59,7 +60,7 @@ As I progress through the curriculum, I am developing both technical and interpe
     Learning how to prioritize tasks and manage project deadlines effectively
     into a self-paced environment.
 ```
-
+<a id="projects"></a>
 ## My projects
 | Project          | Description                                                              | Skills                      |
 |------------------|--------------------------------------------------------------------------|-----------------------------|
