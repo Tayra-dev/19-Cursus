@@ -28,7 +28,7 @@
 
 ## Skills in development
 
-As I progress through the curriculum, I am developing both technical and interpersonal skills that are essential for becoming an effective software engineer.\
+As I progress through the curriculum, I am developing both technical and interpersonal skills that are essential to be an effective software engineer.\
 </br>
 **Hard skills**
 ```bash
