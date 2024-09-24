@@ -59,3 +59,16 @@ As I progress through the curriculum, I am developing both technical and interpe
     Learning how to prioritize tasks and manage project deadlines effectively
     into a self-paced environment.
 ```
+
+## My projects
+| Project          | Description                                                              | Skills                      |
+|------------------|--------------------------------------------------------------------------|-----------------------------|
+| Libft            | My first library that contains useful functions I will use in future 19 projects | C                           |
+| Ft_printf        | A recreation of the printf function that uses variadic functions         | C                           |
+| Get_next_line    | A function to read a file line by line                                   | C                           |
+| Born2beroot      | Setting up our own first virtual machine                                  | Network, System administration |
+| Push_swap        | Implementation of a sorting algorithm with minimal complexity possible    | C, Algorithm                |
+| Pipex            | First approach to redirections and pipes                                  | C, Unix                     |
+| So_long          | Graphic programming introduction by developing a small 2D game           | C, Graphics                 |
+| Philosopher      | Learning about multithreading and multiprocessing                        | C, Unix                     |
+| Minishell        | Recreation of a bash environment                                          | C, Unix                     |
