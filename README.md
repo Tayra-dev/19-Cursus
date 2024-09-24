@@ -16,6 +16,7 @@
 
 <a id="#about"></a>
 ## About
+To enter 19 School, I had to pass a one-month entry test called <a href="https://github.com/Tayra46/Piscine19">the Piscine</a>
 > 19 is a coding school based in Belgium, following the unique pedagogical approach of the 42 Network. It is a peer-to-peer, project-based learning environment with no teachers or traditional classes. Instead, students are encouraged to learn through collaboration, self-study, and hands-on coding projects
 
 **About the 42 Network**
