@@ -10,7 +10,7 @@
   <summary>Table of Contents</summary>
   
   1. [About](#about)
-  2. [Skills in development](#skill)
+  2. [Skills in development](#skills)
   3. [My projects](#projects)
 
 </details>
@@ -26,8 +26,9 @@ To enter 19 School, I had to pass a one-month entry test called <a href="https:/
 
 <img src="https://github.com/Tayra46/19-Cursus/blob/6e9244d8ed9bfa257348af0eee045becb093f315/19-campus.jpeg" width="1000" height="300">
 
+<a id="#skills"></a>
 ## Skills in development
-<a id="#skill"></a>
+
 As I progress through the curriculum, I am developing both technical and interpersonal skills that are essential to be an effective software engineer.\
 </br>
 **Hard skills**
