@@ -64,11 +64,11 @@ As I progress through the curriculum, I am developing both technical and interpe
 | Project          | Description                                                              | Skills                      |
 |------------------|--------------------------------------------------------------------------|-----------------------------|
 | <a href="https://github.com/Tayra46/Libft">Libft</a>     | My first library that contains useful functions I will use in future 19 projects | C                           |
-| Ft_printf        | A recreation of the printf function that uses variadic functions         | C                           |
-| Get_next_line    | A function to read a file line by line                                   | C                           |
-| Born2beroot      | Setting up our own first virtual machine                                  | Network, System administration |
-| Push_swap        | Implementation of a sorting algorithm with minimal complexity possible    | C, Algorithm                |
-| Pipex            | First approach to redirections and pipes                                  | C, Unix                     |
-| So_long          | Graphic programming introduction by developing a small 2D game           | C, Graphics                 |
-| Philosopher      | Learning about multithreading and multiprocessing                        | C, Unix                     |
-| Minishell        | Recreation of a bash environment                                          | C, Unix                     |
+| <a href="https://github.com/Tayra46/ft_printf">Ft_printf</a>        | A recreation of the printf function that uses variadic functions         | C                           |
+| <a href="https://github.com/Tayra46/Get_next_line">Get_next_line</a>    | A function to read a file line by line                                   | C                           |
+| Born2beroot      | Setting up our own first virtual machine            | Network, System administration |
+| <a href="https://github.com/Tayra46/push_swap">Push_swap</a>        | Implementation of a sorting algorithm with minimal complexity possible    | C, Algorithm                |
+| <a href="#">Pipex</a>| First approach to redirections and pipes                                  | C, Unix                     |
+| <a href="https://github.com/Tayra46/so_long">So_long</a>| Graphic programming introduction by developing a small 2D game  | C, Graphics  
+| <a href="#">Philosopher</a>      | Learning about multithreading and multiprocessing                        | C, Unix                     |
+| <a href="https://github.com/antoine-2beco/minishell">Minishell</a>| Recreation of a bash environment | C, Unix
