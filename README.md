@@ -1,6 +1,7 @@
 <div align="center">
   <h1>19 Cursus</h1> 
-  <p><strong>My Journey at <a href="https://campus19.be/">19 School</a>, part of 42 network</strong></p>
+  <p><strong>My Journey at <a href="https://campus19.be/">19 School</a>, part of 42 network</strong></br>
+  Started on October 9th, 2023 </p>
   </br>
 </div>
 
@@ -30,14 +31,30 @@
 As I progress through the curriculum, I am developing both technical and interpersonal skills that are essential for becoming an effective software engineer.\
 </br>
 **Hard skills**
-- `Algorithms and Data Structures:` Learning to design and implement efficient solutions to complex problems.
-- `Low-level Programming:` Developing proficiency in C programming, including memory management and systems programming.
-- `Version Control:` Mastering Git for version control, including branching, merging, and collaborative workflows.
-- `Shell scripting:` Gaining in-depth knowledge of the UNIX environment, from shell scripting to process management.\
+```bash
+# Algorithms and Data Structures:
+    Learning to design and implement efficient solutions to complex problems.
+# Low-level Programming:
+    Developing C programming skills, including memory management and systems programming.
+# Version Control:
+    Mastering Git version control tools, including branching, merging, and collaborative workflows.
+# Shell scripting:
+    Gaining in-depth knowledge of the UNIX environment, from shell scripting to process management.
+```
 </br>
 
 **Soft skills**
-- `Peer Learning and Collaboration:` Building communication and teamwork skills through peer code reviews, group projects, and problem-solving alongside my fellow students.
-- `Self-learning and Autonomy:` Developing the ability to learn independently and manage my own progress through challenging projects without formal guidance.
-- `Problem Solving and Adaptability:` Strengthening my ability to adapt to new problems and technologies, approaching challenges with creativity and resilience.
-- `Time Management:` Learning how to prioritize tasks and manage project deadlines effectively in a self-paced environment.
+```bash
+# Peer Learning and Collaboration:
+    Building communication and teamwork skills through peer code reviews,
+    group projects, and problem-solving alongside my fellow students.
+# Self-learning and Autonomy:
+    Developing the ability to learn independently and manage my own progress
+    through challenging projects without formal guidance.
+# Problem Solving and Adaptability:
+    Strengthening my ability to adapt to new problems and technologies,
+    approaching challenges with creativity and resilience.
+# Time Management:
+    Learning how to prioritize tasks and manage project deadlines effectively
+    into a self-paced environment.
+```
