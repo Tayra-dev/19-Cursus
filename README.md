@@ -24,7 +24,7 @@ To enter 19 School, I had to pass a one-month entry test called <a href="https:/
 
 > 42 Network is a global network of coding schools recognized for its revolutionary approach to software engineering education. The network operates over 40 campuses worldwide, providing students with a self-paced, project-based curriculum.
 
-<img src="https://github.com/Tayra46/19-Cursus/blob/6e9244d8ed9bfa257348af0eee045becb093f315/19-campus.jpeg" width="1000" height="300">
+<!-- <img src="https://github.com/Tayra46/19-Cursus/blob/6e9244d8ed9bfa257348af0eee045becb093f315/19-campus.jpeg" width="1000" height="300"> -->
 
 <a id="#skills"></a>
 ## :chart_with_upwards_trend: Skills in development
