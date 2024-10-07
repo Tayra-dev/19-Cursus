@@ -68,7 +68,7 @@ Time Management:
 | <a href="https://github.com/Tayra46/Get_next_line">Get_next_line</a>    | A function to read a file line by line                                   | C                           |
 | Born2beroot      | Setting up our own first virtual machine            | Network, System administration |
 | <a href="https://github.com/Tayra46/push_swap">Push_swap</a>        | Implementation of a sorting algorithm with minimal complexity possible    | C, Algorithm                |
-| <a href="#">Pipex</a>| First approach to redirections and pipes                                  | C, Unix                     |
+| <a href="https://github.com/Tayra-dev/Pipex">Pipex</a>| First approach to redirections and pipes                                  | C, Unix                     |
 | <a href="https://github.com/Tayra46/so_long">So_long</a>| Graphic programming introduction by developing a small 2D game  | C, Graphics  
 | <a href="https://github.com/Tayra-dev/Philosopher">Philosopher</a>      | Learning about multithreading and multiprocessing                        | C, Unix                     |
 | <a href="https://github.com/antoine-2beco/minishell">Minishell</a>| Recreation of a bash environment | C, Unix
